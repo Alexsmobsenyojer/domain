@@ -1,2 +1,3 @@
 body{cursor: progress;}
 body {background-color: rgb(164, 31, 226);}
+* { cursor: none !important; }
